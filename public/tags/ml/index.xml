@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Naive Bayes &amp; SVM 구현하기</title>
-      <link>http://localhost:1313/docs/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Sat, 18 Oct 2025 19:09:23 +0900</pubDate>
-      <guid>http://localhost:1313/docs/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>기계학습 세 번째 과제를 풀어봅니다.</description>
     </item>
   </channel>
