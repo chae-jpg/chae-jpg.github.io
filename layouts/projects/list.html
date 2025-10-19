@@ -1,0 +1,202 @@
+{{ define "main" }}
+<div class="projects-container">
+  <div class="projects-header">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}
+    <div class="projects-description">
+      {{ .Content }}
+    </div>
+    {{ end }}
+  </div>
+
+  <div class="projects-grid">
+    {{ range .Pages }}
+    <div class="project-card">
+      {{ if .Params.thumbnail }}
+      <div class="project-thumbnail">
+        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
+      </div>
+      {{ end }}
+      
+      <div class="project-content">
+        <h2 class="project-title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        
+        {{ if .Params.stack }}
+        <div class="project-stack">
+          <h3>Tech Stack</h3>
+          <div class="stack-tags">
+            {{ range .Params.stack }}
+            <span class="stack-tag">{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+        
+        {{ if .Params.description }}
+        <p class="project-description">{{ .Params.description }}</p>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+.projects-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.projects-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.projects-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--primary);
+}
+
+.projects-description {
+  font-size: 1.1rem;
+  color: var(--secondary);
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  background: var(--theme);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border-color: var(--primary);
+}
+
+.project-thumbnail {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.project-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-thumbnail img {
+  transform: scale(1.05);
+}
+
+.project-content {
+  padding: 1.5rem;
+}
+
+.project-title {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+}
+
+.project-title a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.project-title a:hover {
+  color: var(--accent);
+}
+
+.project-stack {
+  margin-bottom: 1rem;
+}
+
+.project-stack h3 {
+  font-size: 0.9rem;
+  margin: 0 0 0.5rem 0;
+  color: var(--secondary);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.stack-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.stack-tag {
+  background: var(--accent);
+  color: var(--content);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid var(--border);
+}
+
+.stack-tag:hover {
+  background: var(--primary);
+  color: var(--theme);
+  transform: translateY(-1px);
+}
+
+.project-description {
+  color: var(--secondary);
+  line-height: 1.6;
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .project-card {
+    background: var(--theme);
+    border-color: var(--border);
+  }
+  
+  .project-card:hover {
+    border-color: var(--primary);
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .projects-header h1 {
+    font-size: 2rem;
+  }
+  
+  .project-content {
+    padding: 1rem;
+  }
+}
+</style>
+{{ end }}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on CS Playground</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on CS Playground</description>
+    <image>
+      <title>CS Playground</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.151.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Oct 2025 19:09:23 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naive Bayes &amp; SVM 구현하기</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sat, 18 Oct 2025 19:09:23 +0900</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>기계학습 세 번째 과제를 풀어봅니다.</description>
+    </item>
+  </channel>
+</rss>
