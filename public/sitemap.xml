@@ -20,51 +20,41 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-02-15T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/frontend/</loc>
-    <lastmod>2024-02-15T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
-    <lastmod>2024-02-15T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2024-02-15T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/react/</loc>
     <lastmod>2024-02-15T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/react-todo-app/</loc>
     <lastmod>2024-02-15T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
-    <lastmod>2024-02-15T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc>
-    <lastmod>2024-02-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
-    <lastmod>2024-02-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2024-02-01T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/machine-learning-classifier/</loc>
     <lastmod>2024-02-01T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2024-02-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-collection/</loc>
-    <lastmod>2024-01-15T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/web-scraper/</loc>
-    <lastmod>2024-01-15T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-scraping/</loc>
     <lastmod>2024-01-15T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-01-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-collection/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/frontend/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/react/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-scraping/</loc>
   </url>
 </urlset>

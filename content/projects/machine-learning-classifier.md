@@ -3,13 +3,11 @@ title: "Machine Learning Image Classifier"
 date: 2024-02-01T00:00:00+09:00
 draft: false
 description: "A deep learning model for image classification using TensorFlow and Keras"
-tags: ["Machine Learning", "Deep Learning", "Computer Vision", "Python"]
 categories: ["Projects"]
 featured: false
 thumbnail: "/images/projects/placeholder.svg"
 stack: ["TensorFlow", "Keras", "Python", "NumPy"]
 excludeFromArchive: true
-excludeFromTags: true
 ---
 
 ## 프로젝트 개요

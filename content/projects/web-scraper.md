@@ -3,13 +3,11 @@ title: "Web Scraper with Python"
 date: 2024-01-15T00:00:00+09:00
 draft: false
 description: "A robust web scraper built with Python and BeautifulSoup for data collection"
-tags: ["Python", "Web Scraping", "Data Collection"]
 categories: ["Projects"]
 featured: false
 thumbnail: "/images/projects/placeholder.svg"
 stack: ["Python", "BeautifulSoup", "Selenium", "Pandas"]
 excludeFromArchive: true
-excludeFromTags: true
 ---
 
 ## 프로젝트 개요

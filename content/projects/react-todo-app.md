@@ -3,13 +3,11 @@ title: "React Todo Application"
 date: 2024-02-15T00:00:00+09:00
 draft: false
 description: "A modern todo application built with React, featuring state management and local storage"
-tags: ["React", "JavaScript", "Frontend", "Web Development"]
 categories: ["Projects"]
 featured: false
 thumbnail: "/images/projects/placeholder.svg"
 stack: ["React", "JavaScript", "CSS3", "Local Storage"]
 excludeFromArchive: true
-excludeFromTags: true
 ---
 
 ## 프로젝트 개요
