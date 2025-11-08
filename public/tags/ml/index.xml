@@ -9,7 +9,7 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.151.2</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 18 Oct 2025 19:09:23 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,13 @@
       <pubDate>Sat, 18 Oct 2025 19:09:23 +0900</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
       <description>기계학습 세 번째 과제를 풀어봅니다.</description>
+    </item>
+    <item>
+      <title>핸즈온 머신러닝 - 2장</title>
+      <link>http://localhost:1313/posts/handson_chap2/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/handson_chap2/</guid>
+      <description>데이터 분석 파이프라인을 알아봅시다.</description>
     </item>
   </channel>
 </rss>

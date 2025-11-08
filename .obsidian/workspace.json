@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ddf44fc71e606253",
+    "type": "split",
+    "children": [
+      {
+        "id": "b954b5a314828ad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c070d6ba1037ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/pytorch_60_min_blitz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pytorch_60_min_blitz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a35366caf35fee8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fecf74eb26fb6358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec2dcc67bb4492d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7889220772e6b06c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a38862e18a1d83c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26f82b080c95a285",
+    "type": "split",
+    "children": [
+      {
+        "id": "332223a1cbbf245b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fb2025b000f06a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/cg_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cg_1"
+            }
+          },
+          {
+            "id": "066c785d1e317ab4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/cg_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cg_1"
+            }
+          },
+          {
+            "id": "e78e4af2221659fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0897207b29721ac4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/cg_1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cg_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "32c070d6ba1037ba",
+  "lastOpenFiles": [
+    "content/posts/test.md",
+    "public/tags/dl/page/1/index.html",
+    "public/tags/dl/page/1",
+    "public/tags/dl/page",
+    "public/tags/dl/index.xml",
+    "public/tags/dl/index.html",
+    "public/tags/dl",
+    "public/tags/pytorch/page/1/index.html",
+    "public/tags/pytorch/page/1",
+    "public/tags/pytorch/page",
+    "public/tags/pytorch/index.xml",
+    "content/posts/pytorch_60_min_blitz.md",
+    "content/posts/ml_1.md",
+    "content/posts/cg_1.md",
+    "content/posts/ML_1.md",
+    "content/about.md",
+    "content/projects/web-scraper.md",
+    "content/projects/machine-learning-classifier.md",
+    "content/projects/react-todo-app.md",
+    "content/projects/_index.md",
+    "public/images/projects/placeholder.svg"
+  ]
+}

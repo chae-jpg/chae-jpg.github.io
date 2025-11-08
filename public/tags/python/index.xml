@@ -9,23 +9,44 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.151.2</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Machine Learning Image Classifier</title>
-      <link>http://localhost:1313/projects/machine-learning-classifier/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/projects/machine-learning-classifier/</guid>
-      <description>A deep learning model for image classification using TensorFlow and Keras</description>
+      <title>점프 투 파이썬 - 파이썬 날아오르기</title>
+      <link>http://localhost:1313/posts/jtp_1/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jtp_1/</guid>
+      <description>파이썬 심화 문법을 알아봅시다.</description>
     </item>
     <item>
-      <title>Web Scraper with Python</title>
-      <link>http://localhost:1313/projects/web-scraper/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/projects/web-scraper/</guid>
-      <description>A robust web scraper built with Python and BeautifulSoup for data collection</description>
+      <title>점프 투 파이썬 - 파이썬 날개 달기</title>
+      <link>http://localhost:1313/posts/jtp_2/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jtp_2/</guid>
+      <description>파이썬의 다양한 기능을 알아봅시다.</description>
+    </item>
+    <item>
+      <title>점프 투 파이썬 - 파이썬의 입출력</title>
+      <link>http://localhost:1313/posts/jtp_3/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jtp_3/</guid>
+      <description>파이썬의 입출력을 알아봅시다.</description>
+    </item>
+    <item>
+      <title>점프 투 파이썬 - 조건문</title>
+      <link>http://localhost:1313/posts/jpt_4/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jpt_4/</guid>
+      <description>파이썬 조건문 문법을 알아봅시다.</description>
+    </item>
+    <item>
+      <title>점프 투 파이썬 - 파이썬 문제 풀이</title>
+      <link>http://localhost:1313/posts/jtp_5/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jtp_5/</guid>
+      <description>파이썬으로 문제를 풀어봅시다.</description>
     </item>
   </channel>
 </rss>

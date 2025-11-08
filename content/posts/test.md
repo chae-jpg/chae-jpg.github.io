@@ -1,9 +1,11 @@
 ---
-date: '2025-10-18T19:09:23+09:00'
-draft: false
-title: 'Naive Bayes & SVM 구현하기'
-tags: ["ML"]
+date: 2025-10-18T19:09:23+09:00
+draft: true
+title: Naive Bayes & SVM 구현하기
+tags:
+  - ML
 description: 기계학습 세 번째 과제를 풀어봅니다.
+summary:
 ---
 
 ## Naive Bayes란?

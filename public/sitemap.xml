@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/boj_19640/</loc>
+    <lastmod>2025-11-03T20:43:25+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-18T19:09:23+09:00</lastmod>
+    <lastmod>2025-11-03T20:43:25+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-03T20:43:25+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/network_2/</loc>
+    <lastmod>2025-10-27T02:54:57+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/network_1/</loc>
+    <lastmod>2025-10-25T19:10:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/pytorch_60_min_blitz/</loc>
+    <lastmod>2025-10-23T21:52:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dl/</loc>
+    <lastmod>2025-10-23T21:52:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pytorch/</loc>
+    <lastmod>2025-10-23T21:52:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-23T21:52:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ml/</loc>
     <lastmod>2025-10-18T19:09:23+09:00</lastmod>
@@ -11,11 +38,23 @@
     <loc>http://localhost:1313/posts/test/</loc>
     <lastmod>2025-10-18T19:09:23+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-18T19:09:23+09:00</lastmod>
+    <loc>http://localhost:1313/posts/boj12789/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-18T19:09:23+09:00</lastmod>
+    <loc>http://localhost:1313/tags/ps/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/handson_chap2/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/jtp_1/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/jtp_2/</loc>
+    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-02-15T00:00:00+09:00</lastmod>
@@ -36,25 +75,5 @@
     <lastmod>2024-01-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-collection/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/frontend/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/react/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-scraping/</loc>
   </url>
 </urlset>
