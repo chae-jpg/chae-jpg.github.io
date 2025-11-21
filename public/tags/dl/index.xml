@@ -27,5 +27,19 @@
       <guid>http://localhost:1313/posts/pytorch_60_min_blitz/</guid>
       <description>Deep Learning with Pytorch: A 60 Minute Blitz를 통해 Pytorch를 복습합니다.</description>
     </item>
+    <item>
+      <title>Improving Language Understanding by Generative Pre-Training (GPT-1) 리뷰</title>
+      <link>http://localhost:1313/posts/gpt-1/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gpt-1/</guid>
+      <description>아주 큰 corpus를 딱 맞는 task으로 학습하기</description>
+    </item>
+    <item>
+      <title>Bidirectional Encoder Representations from Transformers (BERT) 리뷰</title>
+      <link>http://localhost:1313/posts/bert/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bert/</guid>
+      <description>모델과 단어 맞추기 게임을 하면 성능이 높아진다!</description>
+    </item>
   </channel>
 </rss>
