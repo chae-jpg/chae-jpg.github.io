@@ -70,6 +70,13 @@
       <description>간단한 스택 문제</description>
     </item>
     <item>
+      <title>Improving Language Understanding by Generative Pre-Training (GPT-1) 리뷰</title>
+      <link>http://localhost:1313/posts/gpt-1/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gpt-1/</guid>
+      <description>아주 큰 corpus를 딱 맞는 task으로 학습하기</description>
+    </item>
+    <item>
       <title>핸즈온 머신러닝 - 2장</title>
       <link>http://localhost:1313/posts/handson_chap2/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
@@ -117,6 +124,13 @@
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/optuna/</guid>
       <description>졸업프로젝트 당시 사용한 라이브러리인 Optuna에 대해 소개하는 글입니다.</description>
+    </item>
+    <item>
+      <title>Bidirectional Encoder Representations from Transformers (BERT) 리뷰</title>
+      <link>http://localhost:1313/posts/bert/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bert/</guid>
+      <description>모델과 단어 맞추기 게임을 하면 성능이 높아진다!</description>
     </item>
     <item>
       <title>FedCLIP 논문 리뷰 &amp; 코드 실행 준비</title>

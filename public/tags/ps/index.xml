@@ -21,6 +21,20 @@
       <description>간단한 스택 문제</description>
     </item>
     <item>
+      <title>BOJ 2206 - 벽 부수고 이동하기 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_2206/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_2206/</guid>
+      <description>조금 복잡한 구현 문제</description>
+    </item>
+    <item>
+      <title>BOJ 16236 - 아기 상어 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_16236/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_16236/</guid>
+      <description>완전 구현 문제</description>
+    </item>
+    <item>
       <title>DP 문제 두 개</title>
       <link>http://localhost:1313/posts/dp_two/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
