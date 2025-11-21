@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Nov 2025 20:43:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:14:19 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepFM: A Factorization-Machine based Neural Network for CTR Prediction</title>
+      <link>http://localhost:1313/posts/deepfm/</link>
+      <pubDate>Tue, 11 Nov 2025 01:14:19 +0900</pubDate>
+      <guid>http://localhost:1313/posts/deepfm/</guid>
+      <description>BOAZ 미니프로젝트 2를 위한 발제 논문입니다.</description>
+    </item>
     <item>
       <title>BOJ 19640 - 화장실의 규칙</title>
       <link>http://localhost:1313/posts/boj_19640/</link>

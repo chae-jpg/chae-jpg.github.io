@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Nov 2025 20:43:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:14:19 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepFM: A Factorization-Machine based Neural Network for CTR Prediction</title>
+      <link>http://localhost:1313/posts/deepfm/</link>
+      <pubDate>Tue, 11 Nov 2025 01:14:19 +0900</pubDate>
+      <guid>http://localhost:1313/posts/deepfm/</guid>
+      <description>BOAZ 미니프로젝트 2를 위한 발제 논문입니다.</description>
+    </item>
     <item>
       <title>BOJ 19640 - 화장실의 규칙</title>
       <link>http://localhost:1313/posts/boj_19640/</link>
@@ -96,6 +103,34 @@
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/jtp_5/</guid>
       <description>파이썬으로 문제를 풀어봅시다.</description>
+    </item>
+    <item>
+      <title>Optuna를 이용한 하이퍼파라미터 튜닝</title>
+      <link>http://localhost:1313/posts/optuna/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/optuna/</guid>
+      <description>졸업프로젝트 당시 사용한 라이브러리인 Optuna에 대해 소개하는 글입니다.</description>
+    </item>
+    <item>
+      <title>FedCLIP 논문 리뷰 &amp; 코드 실행 준비</title>
+      <link>http://localhost:1313/posts/fed_clip/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fed_clip/</guid>
+      <description>졸업프로젝트를 위한 스터디 논문을 소개합니다.</description>
+    </item>
+    <item>
+      <title>스택 문제 두 개</title>
+      <link>http://localhost:1313/posts/stack_two/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stack_two/</guid>
+      <description>스택 문제 두 개를 소개합니다.</description>
+    </item>
+    <item>
+      <title>BOJ 2470 - 두 용액 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_2470/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_2470/</guid>
+      <description>투 포인터 classic</description>
     </item>
   </channel>
 </rss>

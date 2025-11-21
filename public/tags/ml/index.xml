@@ -27,5 +27,19 @@
       <guid>http://localhost:1313/posts/handson_chap2/</guid>
       <description>데이터 분석 파이프라인을 알아봅시다.</description>
     </item>
+    <item>
+      <title>Optuna를 이용한 하이퍼파라미터 튜닝</title>
+      <link>http://localhost:1313/posts/optuna/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/optuna/</guid>
+      <description>졸업프로젝트 당시 사용한 라이브러리인 Optuna에 대해 소개하는 글입니다.</description>
+    </item>
+    <item>
+      <title>FedCLIP 논문 리뷰 &amp; 코드 실행 준비</title>
+      <link>http://localhost:1313/posts/fed_clip/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fed_clip/</guid>
+      <description>졸업프로젝트를 위한 스터디 논문을 소개합니다.</description>
+    </item>
   </channel>
 </rss>
