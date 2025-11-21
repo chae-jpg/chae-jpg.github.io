@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dp on CS Playground</title>
+    <link>http://localhost:1313/tags/dp/</link>
+    <description>Recent content in Dp on CS Playground</description>
+    <image>
+      <title>CS Playground</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/dp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2024-04-17-dp-%EB%AC%B8%EC%A0%9C-%EB%91%90-%EA%B0%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-04-17-dp-%EB%AC%B8%EC%A0%9C-%EB%91%90-%EA%B0%9C/</guid>
+      <description>&lt;p&gt;이독 과제로 푼 두 문제&lt;/p&gt;
+&lt;h2 id=&#34;그녀를-찾아서&#34;&gt;그녀를 찾아서&lt;/h2&gt;
+&lt;p&gt;DP보다는 확통 문제 아닌가&amp;hellip;? 라는 생각이 가장 먼저 들었다&lt;/p&gt;
+&lt;p&gt;이렇게 생각해볼 수 있을 것 같음&lt;/p&gt;
+&lt;p&gt;먼저 초기에 각 노드로 들어가는 확률은 모두 동일하니까 그 값으로 정해준 다음 10분 간격으로 한 칸씩 옮겨주면 되는 거임. 근데 그 때 계산을 위해서 주어진 확률을 사용하는 것.&lt;/p&gt;
+&lt;p&gt;문제에서 주어진 예를 가지고 생각해보자.
+![[Pasted image 20240417161841.png]]
+이 경우는 정점은 모두 4개니 초기 확률은 &lt;em&gt;0.25&lt;/em&gt;가 된다.
+(추가 : 문제 제대로 안 읽었다 항상 정점은 4개다; 제발)
+그리고 모든 정점에 대해서 확률을 계산해보자.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

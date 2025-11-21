@@ -21,6 +21,41 @@
       <description>간단한 스택 문제</description>
     </item>
     <item>
+      <title>DP 문제 두 개</title>
+      <link>http://localhost:1313/posts/dp_two/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dp_two/</guid>
+      <description>DP 문제 2문제를 풀었습니다.</description>
+    </item>
+    <item>
+      <title>BOJ 9466 - 텀 프로젝트 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_9466/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_9466/</guid>
+      <description>사이클 찾는 DFS</description>
+    </item>
+    <item>
+      <title>BOJ 1916 - 최소비용 구하기 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_1916/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_1916/</guid>
+      <description>기본 다익스트라 문제</description>
+    </item>
+    <item>
+      <title>BOJ 9251 - LCS</title>
+      <link>http://localhost:1313/posts/boj_9251/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_9251/</guid>
+      <description>classic DP</description>
+    </item>
+    <item>
+      <title>BOJ 15681 - 트리와 쿼리 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_15681/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_15681/</guid>
+      <description>크리스마스 기념 트리 문제</description>
+    </item>
+    <item>
       <title>스택 문제 두 개</title>
       <link>http://localhost:1313/posts/stack_two/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
@@ -33,6 +68,27 @@
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/boj_2470/</guid>
       <description>투 포인터 classic</description>
+    </item>
+    <item>
+      <title>BOJ 2579 - 계단 오르기</title>
+      <link>http://localhost:1313/posts/boj_2579/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_2579/</guid>
+      <description>DP classic의 여러 풀이</description>
+    </item>
+    <item>
+      <title>BOJ 1541 - 잃어버린 괄호 (C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_1541/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_1541/</guid>
+      <description>문자열 그리디 문제</description>
+    </item>
+    <item>
+      <title>BOJ 5549 - 행성 탐사(C&#43;&#43;)</title>
+      <link>http://localhost:1313/posts/boj_5549/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boj_5549/</guid>
+      <description>3차원 DP</description>
     </item>
   </channel>
 </rss>
