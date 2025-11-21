@@ -1,6 +1,6 @@
 ---
 date: '2025-11-11T01:14:19+09:00'
-draft: false
+draft: true
 title: 'DeepFM: A Factorization-Machine based Neural Network for CTR Prediction'
 tags: ['DL', 'RecSys']
 summary: BOAZ 미니프로젝트 2를 위한 발제 논문입니다.
