@@ -147,3 +147,4 @@ enableEmoji: true
 caches:
   images:
     dir: :cacheDir/images
+
